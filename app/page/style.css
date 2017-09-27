@@ -218,7 +218,7 @@ a:hover {
 .ico-like,
 .ico-present,
 .istore a:after {
-    background: url(images/sprite.png) no-repeat 0 0;
+    background: url(../images/sprite.png) no-repeat 0 0;
 }
 h1, h2, h3, h4, h5, h6 {
     color: #324d5b;
@@ -742,7 +742,6 @@ only screen and (min-resolution:2dppx){
     .ico-like,
     .ico-present,
     .istore a:after {
-        background-image: url(images/sprite@2x.png);
         -moz-background-size: 300px 150px;
         -ie-background-size: 300px 150px;
         -o-background-size: 300px 150px;
